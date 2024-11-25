@@ -1,0 +1,14 @@
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/bin/Debug/net8.0/test1
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/bin/Debug/net8.0/test1.deps.json
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/bin/Debug/net8.0/test1.runtimeconfig.json
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/bin/Debug/net8.0/test1.dll
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/bin/Debug/net8.0/test1.pdb
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/test1.AssemblyInfoInputs.cache
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/test1.AssemblyInfo.cs
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/test1.csproj.CoreCompileInputs.cache
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/test1.dll
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/refint/test1.dll
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/test1.pdb
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/test1.genruntimeconfig.cache
+/Users/ohoud/Desktop/#c#Apps/quiz/test1/obj/Debug/net8.0/ref/test1.dll
